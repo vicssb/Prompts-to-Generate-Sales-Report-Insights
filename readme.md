@@ -17,6 +17,7 @@ The company focuses solely on manufacturing consoles, leaving distribution and s
 ## Project Structure
 - **data/processed_data/**: Contains processed sales data.
 - **prompts/**: Contains the prompts used to generate insights.
+- **insights/**: Contains the answers to the prompts used.
 - **imgs/**: Contains the images used in the documentation.
 
 ## Prompts Used
@@ -28,6 +29,9 @@ The company focuses solely on manufacturing consoles, leaving distribution and s
 ### What is the sales distribution value by sales platform (Etsy, Shopee, AliExpress)?
 
 These questions can help gain valuable insights into customer behavior and the effectiveness of sales and marketing strategies.
+
+## Insights
+[See detailed insights here](./insights/insights.md)
 
 ## Google AI Studio Settings
 ![Settings](imgs/01.png)

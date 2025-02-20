@@ -17,6 +17,7 @@ A empresa foca apenas em fabricação de consoles, deixando a distribuição e v
 ## Estrutura do Projeto
 - **data/processed_data/**: Contém os dados de vendas processados.
 - **prompts/**: Contém os prompts utilizados para gerar insights.
+- **insights/**: Contém as respostas dos prompts utilizados.
 - **imgs/**: Contém as imagens utilizadas na documentação.
 
 ## Prompts Utilizados
@@ -28,6 +29,9 @@ A empresa foca apenas em fabricação de consoles, deixando a distribuição e v
 ### Qual é o valor da distribuição de vendas por plataforma de venda (Etsy, Shopee, AliExpress)?
 
 Essas perguntas podem ajudar a obter insights valiosos sobre o comportamento dos clientes e a eficácia das estratégias de vendas e marketing.
+
+## Insights
+[Veja os insights detalhados aqui](./insights/insights.md)
 
 ## Configurações Google AI Studio
 ![Configurações](imgs/01.png)
