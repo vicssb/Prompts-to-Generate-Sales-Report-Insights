@@ -1,4 +1,6 @@
- Qual a idade média dos compradores em cada país?
+# Prompts utilizados com sua respectivas respostas geradas
+
+## Qual é a idade média dos compradores em cada país?
 
 Aqui está a tabela com a idade média dos compradores por país, calculada a partir dos dados fornecidos.
 
@@ -14,10 +16,18 @@ Aqui está a tabela com a idade média dos compradores por país, calculada a pa
 
 Nota: As idades foram calculadas com base nas datas de nascimento fornecidas e na data atual.
 
+![Configurações](../imgs/02.png)
 
 
+## Qual é a idade média dos compradores de cada produto vendido?
+![Configurações](../imgs/03.png)
 
-Qual é a eficácia dos cupons de desconto em termos de valor total de desconto concedido e aumento nas vendas?
+
+## Qual é o total de vendas (em valor monetário) por país de entrega? Responda quanto foi vendido em cada tipo da moeda(currency)
+![Configurações](../imgs/04.png)
+
+
+## Qual é a eficácia dos cupons de desconto em termos de valor total de desconto concedido e aumento nas vendas?
 
 Para avaliar a eficácia dos cupons, precisamos calcular o valor total de desconto concedido e analisar o impacto nas vendas.
 
@@ -38,9 +48,7 @@ Para avaliar o aumento nas vendas, é necessário comparar os dados com um perí
 Com os dados fornecidos, podemos calcular o valor total de desconto concedido em cada moeda. No entanto, sem informações adicionais sobre as vendas em um período sem cupons ou um grupo de controle, não é possível determinar o impacto dos cupons no aumento das vendas. Para uma análise completa da eficácia dos cupons, seria necessário comparar as vendas com e sem cupons, bem como analisar outros fatores que podem influenciar as vendas, como sazonalidade e campanhas de marketing.
 
 
-
-
-Qual é a relação entre a quantidade de produtos comprados e a idade dos compradores?
+## Qual é a relação entre a quantidade de produtos comprados e a idade dos compradores?
 
 Para analisar a relação entre a quantidade de produtos comprados e a idade dos compradores, podemos calcular a média da quantidade de produtos comprados por faixa etária. No entanto, com os dados fornecidos, não podemos definir faixas etárias específicas, então analisaremos a quantidade de produtos comprados em relação à idade individual de cada comprador.
 
@@ -66,3 +74,7 @@ Aqui está a tabela com a relação entre a quantidade de produtos comprados e a
 Observando os dados, não há uma correlação forte e clara entre a idade dos compradores e a quantidade de produtos comprados. As médias de quantidade de produtos por comprador são relativamente consistentes em todas as faixas etárias.
 
 Portanto, com os dados fornecidos, não podemos afirmar que a idade dos compradores tem um impacto significativo na quantidade de produtos comprados.
+
+## Qual é o valor da distribuição de vendas por plataforma de venda (Etsy, Shopee, AliExpress)?
+
+![Configurações](../imgs/05.png)
